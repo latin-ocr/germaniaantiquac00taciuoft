@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./germaniaantiquac00taciuoft_0057.png"; bbox 0 0 2048 3275; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 176 1251 1570 1577">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 176 1251 1570 1577">
+     <span class='ocr_line' id='line_1_1' title="bbox 716 1251 1029 1334; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 716 1251 1029 1334; x_wconf 81' lang='lat' dir='ltr'>LOCI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 176 1503 1570 1577; baseline -0.005 -1"><span class='ocrx_word' id='word_1_2' title='bbox 176 1508 288 1577; x_wconf 72' lang='lat' dir='ltr'>AD</span> <span class='ocrx_word' id='word_1_3' title='bbox 353 1504 1078 1573; x_wconf 65' lang='lat' dir='ltr'>ILLVSTRANMM</span> <span class='ocrx_word' id='word_1_4' title='bbox 1148 1503 1570 1569; x_wconf 68' lang='lat' dir='ltr'>VETEREM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 338 1738 1406 1798">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 338 1738 1406 1798">
+     <span class='ocr_line' id='line_1_3' title="bbox 338 1738 1406 1798; baseline -0.007 0"><span class='ocrx_word' id='word_1_5' title='bbox 338 1740 870 1798; x_wconf 54' lang='lat' dir='ltr'>(1¹1⁴31zMAN1AM</span> <span class='ocrx_word' id='word_1_6' title='bbox 931 1738 1406 1795; x_wconf 53' lang='lat' dir='ltr'>PRAECIPYI.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
